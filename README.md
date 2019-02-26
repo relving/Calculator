@@ -1,5 +1,7 @@
 # Calculator
 This is a simple iOS calculator, like the default one in iOS.
+* No Cocoa Pods used
+* Requires minimum programming knowledge
 
 ## Screenshots
 ![screenshot 2019-02-26 at 16 35 13](https://user-images.githubusercontent.com/15014036/53416767-33bf9b80-39e5-11e9-96d9-bd4b24b51deb.png)
